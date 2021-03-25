@@ -1,0 +1,12 @@
+Folder  :   component
+            File   :   ComponentContainer.js
+Folder  :   redux    
+            File   :   index.js :-  it exports actions
+            File   :   rootReducer.js :-  it combines multiple reducers and export
+            File   :   store.js :-  it is the main store of the app
+            Folder  :   component's seperate Folder (ex :- cake)
+                File   :   componentTypes.js    :-  it stores component's action type
+                File   :   componentActions.js  :-  it stores actions of the component
+                File   :   componentReducer.js  :-  it stores reducer function of the component
+File   :   App.js
+File   :   index.js
